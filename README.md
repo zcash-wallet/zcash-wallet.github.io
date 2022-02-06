@@ -1,0 +1,2 @@
+# zecash-trust-wallet
+ 
